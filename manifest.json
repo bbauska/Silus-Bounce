@@ -2,7 +2,8 @@
   "name": "Silus Bounce",
   "short_name": "Silus Bounce", 
   "start_url": "silus-bounce.bauska.org",
-  "display": "standalone", "icons": [
+  "display": "standalone", 
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
